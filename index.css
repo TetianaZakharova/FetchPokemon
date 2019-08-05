@@ -1,0 +1,31 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+#container {
+  width: 120px;
+ 
+  margin: 0 auto;
+  padding: 8px;
+  
+}
+
+.pokiBorder{
+  border: 2px solid red;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.pokiImg {
+  vertical-align: middle;
+}
+
+
+.pokiName{
+  font-size: 16px;
+  color: darkblue;
+  text-align: center;
+  text-transform: uppercase; 
+}
